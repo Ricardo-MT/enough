@@ -1,7 +1,7 @@
 spec:
- name: Enough
+ name: enough
  static_sites:
  - git:
      branch: main
      repo_clone_url: https://github.com/Ricardo-MT/enough
-   name: Enough
+   name: enough
